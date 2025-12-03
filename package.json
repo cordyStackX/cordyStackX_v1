@@ -12,7 +12,7 @@
   "dependencies": {
     "@cordystackx/cordy_minikit": "github:cordyStackX/cordy_minikit_official",
     "@prisma/client": "^6.19.0",
-    "@tanstack/react-query": "^5.90.7",
+    "@tanstack/react-query": "^5.90.8",
     "@vercel/analytics": "^1.5.0",
     "@vercel/speed-insights": "^1.2.0",
     "hamburger-react": "^2.5.2",
