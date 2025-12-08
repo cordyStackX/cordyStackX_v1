@@ -1,5 +1,6 @@
 # Welcome to my GitHub
 Hi, I’m Cordy — currently exploring **Web2/Web3 development** 🚀🚀
+[![wakatime](https://wakatime.com/badge/user/70d9b2a4-4f2e-45b5-9349-2fc8e3974a45.svg)](https://wakatime.com/@70d9b2a4-4f2e-45b5-9349-2fc8e3974a45)
 
 ## 📊 Stats and Programming Languages
 
