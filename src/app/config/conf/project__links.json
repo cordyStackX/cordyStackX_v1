@@ -8,11 +8,11 @@
         "descriptions" : "lightweight and customizable wallet connector built for Web3 applications. Inspired by RainbowKit, it streamlines wallet integration while keeping the developer experience simple and flexible. With a focus on speed, ease of use, and seamless UI customization, Cordy Minikit empowers dApps to onboard users effortlessly."
     },
     "lccb_ai" : {
-        "repo" : "https://github.com/cordyStackX/lccb_ai.git",
-        "visit" : "https://lccb-ai.vercel.app/",
+        "repo" : "https://github.com/cordyStackX/lccb_ai_2.git",
+        "visit" : "https://lccb-ai-2.vercel.app/",
         "profile" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1bYud5ZSqJJnys0uo37njaO00FkD1HIzbw&s",
         "cover__photo" : "/lccb_ai.png",
-        "title" : "Lccb AI",
+        "title" : "Laco AI",
         "descriptions" : "AI PDF reader for LCC Bacolod: Summarize, ask questions, and interact with your documents smarter and faster."
     },
     "mini_color_game" : {
