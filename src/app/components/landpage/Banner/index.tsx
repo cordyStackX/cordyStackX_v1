@@ -55,7 +55,7 @@ export default function Banner() {
                             <FaTiktok size={30}/>
                         </a>
                     </div>
-                    <p>Full Stack Web & Web3 Developer specializing in scalable apps with 
+                    <p>Open Source Software Developer specializing in scalable apps with 
                         Next.js, Express, and PostgreSQL. Experienced in smart contracts 
                         (Hardhat, Wagmi) and SEO-driven growth strategies.
                     </p>
