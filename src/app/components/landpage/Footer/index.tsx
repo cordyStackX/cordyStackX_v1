@@ -38,8 +38,8 @@ export default function Footer() {
                 </div>
                 <div ref={show_src} className={Footer__css.contacts__src} style={{'--show-src': show_srcIsInView ? 1 : 0} as React.CSSProperties}>
                     <h3>Contacts</h3>
-                    <a href={"mailto: cordovamarcgiestinlouis@gmail.com"}>
-                        <MdEmail size={30}/><p>cordovamarcgiestinlouis@gmail.com</p>
+                    <a href={"mailto: cordystackx@gmail.com"}>
+                        <MdEmail size={30}/><p>cordystackx@gmail.com</p>
                     </a>
                     <a href="https://t.me/cordystackx" target="_blank" rel="noopener noreferrer">
                         <FaTelegram size={30}/><p>@CordyStackX</p>
