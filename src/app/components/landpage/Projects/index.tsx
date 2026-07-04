@@ -25,12 +25,12 @@ export default function Projects() {
             visit: project__src.lccb_ai.visit
         },
         { 
-            title: project__src.mini_color_game.title,
-            descriptions : project__src.mini_color_game.descriptions,
-            profile: project__src.mini_color_game.profile,
-            cover: project__src.mini_color_game.cover__photo,
-            repo: project__src.mini_color_game.repo,
-            visit: project__src.mini_color_game.visit
+            title: project__src.AskVerse.title,
+            descriptions : project__src.AskVerse.descriptions,
+            profile: project__src.AskVerse.profile,
+            cover: project__src.AskVerse.cover__photo,
+            repo: project__src.AskVerse.repo,
+            visit: project__src.AskVerse.visit
         }
     ];
 

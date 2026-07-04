@@ -27,11 +27,8 @@ export default function Banner() {
                 <div className={Banner__css.banner__left_side} style={{'--fade-in': titleIsInView ? 1 : 0} as React.CSSProperties} >
                     <div className={Banner__css.banner__left_side_title} >
                         <h1 ref={title} style={{'--load-appear': titleIsInView ? 1 : 0} as React.CSSProperties}>
-                            <span>Full</span>
-                            <span>Stack</span>
-                            <span>Web</span>
-                            <span>/</span>
-                            <span>Web3</span>
+                            <span>Open Source</span>
+                            <span>Software</span>
                             <span>Developer</span>
                             <span>CordyStackX</span>
                         </h1>

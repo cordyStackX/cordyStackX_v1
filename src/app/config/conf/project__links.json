@@ -15,12 +15,12 @@
         "title" : "Laco AI",
         "descriptions" : "AI PDF reader for LCC Bacolod: Summarize, ask questions, and interact with your documents smarter and faster."
     },
-    "mini_color_game" : {
-        "repo" : "https://github.com/cordyStackX/color_game.git",
-        "visit" : "https://color-game-plum.vercel.app/",
-        "profile" : "/color_game.webp",
-        "cover__photo" : "/color_game_ingame.png",
-        "title" : "Color Game",
-        "descriptions" : "This project is a fun, interactive color game built with Next.js and TypeScript. Play, bet, and win by choosing color combinations and spinning for rewards! The app also integrates with crypto wallets for token-based betting and rewards."
+    "AskVerse" : {
+      "repo" : "https://github.com/LCCB-SIPD/askverse",
+      "visit" : "https://askverse-pi.vercel.app/",
+      "profile" : "https://raw.githubusercontent.com/LCCB-SIPD/askverse/refs/heads/main/public/logo.png",
+      "cover__photo" : "https://raw.githubusercontent.com/LCCB-SIPD/askverse/refs/heads/main/public/Screenshot_2026-06-26-053351.png",
+      "title" : "AskVerse",
+      "descriptions" : "A Decentralized Knowledge-to-Earn Platform Powered by the Stellar Development Foundation and the Stellar ecosystem"
     }
 }

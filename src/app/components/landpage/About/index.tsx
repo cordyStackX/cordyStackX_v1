@@ -61,7 +61,7 @@ export default function About() {
 
             <div ref={lineRef} className={`${About__css.about__right_side_info_div} ${lineInView ? About__css.elements_in_view : ''}`} />
             <p ref={para1} className={`${About__css.about__right_side_info_p} ${para1InView ? About__css.text_in_view : ''}`}>
-              Founder of CordyStackX | Full Stack Web & Web3 Developer | Next.js Enthusiast | Building innovative blockchain &
+              Founder of CordyStackX | Open Source Software Developer | Next.js Enthusiast | Building innovative blockchain &
               web applications with speed, scalability, and modern design.
             </p>
             <p ref={para2} className={`${About__css.about__right_side_info_p} ${para2InView ? About__css.text_in_view : ''}`}>
